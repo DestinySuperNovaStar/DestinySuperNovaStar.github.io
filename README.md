@@ -2,4 +2,4 @@
 
 > Destiny's Games downloads
 
-- Download ../release.7z
+- Download File ../release.7z
