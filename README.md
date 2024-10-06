@@ -5,4 +5,5 @@
 
 > Destiny's Games downloads
 
-- [Game 1 - SECRET](/release.7z)
+- [Game 1 - no name for now WIP](/release.7z)
+- [Game 2 - cubeTest WIP](/cubeTest.7z)
