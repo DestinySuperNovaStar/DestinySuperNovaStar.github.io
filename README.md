@@ -1,7 +1,7 @@
 # Destiny's Website
 
 > TOOLS NEEDED for installs
-- # [7zip](/)
+- # [7zip](/7z2408-x64.exe)
 
 > Destiny's Games downloads
 
