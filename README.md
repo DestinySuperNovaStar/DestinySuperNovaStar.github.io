@@ -2,4 +2,4 @@
 
 > Destiny's Games downloads
 
-- Download File ../release.7z
+- [Game 1 - SECRET](/release.7z)
